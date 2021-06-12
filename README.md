@@ -6,7 +6,12 @@
 
 - 🌱 I’m currently learning more about **Machine Learning in Python**
 
-# GOALS of this project
+<h3 align="left">Goals of the project:</h3>
+<p align="left">With this project I want to do the following things: </p>
+- list
+ - list
+
+---------------------------
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 

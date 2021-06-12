@@ -24,3 +24,9 @@
   - [ ] Data exploration
   - [ ] Data cleaning
 - [ ] Machine Learning model
+
+## 1. Dataset ##
+
+## 2. Machine Learning Model ##
+
+## 3. Model Evaluations ##

@@ -20,8 +20,8 @@
 ## Tasks ##
 
 - [x] Write a README for the project
-- [ ] Data Wrangling
+- [ ] Data
   - [ ] Data gathering
   - [ ] Data exploration
   - [ ] Data cleaning
-- [ ] 
+- [ ] Machine Learning model
